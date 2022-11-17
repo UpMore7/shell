@@ -14,7 +14,7 @@
     
 # Vars
    user="UpMore7"   
-   repo="work"
+   repo="shell"
 
 
 # Source  
