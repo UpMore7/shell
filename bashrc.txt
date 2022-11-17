@@ -1,0 +1,14 @@
+#
+#  bash.bashrc
+#
+
+## My Bash
+
+        alias 'c'='clear';
+        alias 'cd..'='cd ..';
+        alias 'e'='exit';
+        alias 'sc'='bash /home/om/shell/cryptoticker.sh';
+        alias 'su'='bash /home/om/shell/update.sh';
+
+
+###
