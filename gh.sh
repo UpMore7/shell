@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 #
 #
-#  GitHub Menu
-#
+#  GitHub Navi
 #
 
 

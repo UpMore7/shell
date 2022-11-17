@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #
 #
-# rewardcalc
+#  rewardcalc
 #
-#
+
 
 
 # Run

@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 #
 #
-# cryptoticker
+#  Cryptoticker
+#     API Kucoin
 #
-#  API Kucoin
-#
+
 
 
 # Array -> Symbols
