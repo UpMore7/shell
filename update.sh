@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 #
 #
-#   update upgrade autoremove
+#  Update
+#  Upgrade
+#  Autoremove
+#
 #
 
 

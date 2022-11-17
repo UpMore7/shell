@@ -1,15 +1,16 @@
+#!/usr/bin/env bash
+#
 #
 #  GitHub Menu
 #
-#     -> Change Vars
 #
 
 
 
 # Base
-    parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
-    cd "$parent_path"
-    PS1=""
+   parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
+   cd "$parent_path"
+   PS1=""
     
     
 # Vars
