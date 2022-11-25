@@ -7,8 +7,8 @@
         alias 'c'='clear';
         alias 'cd..'='cd ..';
         alias 'e'='exit';
-        alias 'sc'='bash /home/om/shell/cryptoticker.sh';
-        alias 'su'='bash /home/om/shell/update.sh';
+        alias 'sc'='bash /home/USER/shell/cryptoticker.sh';
+        alias 'su'='bash /home/USER/shell/update.sh';
 
 
 ###
